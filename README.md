@@ -1,1 +1,1 @@
-https://derdyly.github.io/Pag-20/
+ https://derdyly.github.io/Paginaa-20/
