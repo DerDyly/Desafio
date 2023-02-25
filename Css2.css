@@ -1,0 +1,121 @@
+body{
+
+    background-color: rgb(10, 51, 12);
+    }
+    
+    .title{
+      color: white;
+    }
+
+    .titulo1{
+      color: white;
+      text-align: center;
+    }
+
+    .titulo2{
+      color: white;
+      text-align: center;
+    }
+
+    .titulo3{
+      color: white;
+      text-align: center;
+    }
+    
+.antes1{
+  color: white;
+  text-align: center;
+}
+
+.antes2{
+  color: white;
+  text-align: center;
+}
+
+    .rpst1{
+    color: white;
+    text-align: center;
+    }
+
+    .rpst2{
+      color: white;
+      text-align: center;
+      }
+
+    .rpst3{
+      color: white;
+      text-align: center;
+      }
+    
+
+
+    .botao4 {
+      text-align: center;
+    }
+    
+    .botao5 {
+      text-align: center;
+    }
+    
+    .botao6{
+      text-align: center;
+    }
+    
+    .botao{
+      border-radius: 6px;
+      background-color: rgb(14, 153, 9);
+      border: none;
+      color: rgb(255, 255, 255);
+      text-align: center;
+      font-size: 22px;
+      padding: 3px;
+      width: 200px;
+      cursor: pointer;
+      margin: 20px;
+    }
+    
+    .botao span{
+      position: relative;
+      transition: 0.50s;
+    }
+    
+    .botao{
+        border-radius: 6px;
+        background-color: rgb(14, 153, 9);
+        border: none;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 22px;
+        padding:3px;
+        width: 200px;
+        cursor: pointer;
+        margin: 30px;
+    }
+     
+    .botao span{
+        position: relative;
+        transition: 0.50s;
+    }
+    
+    .botao span:after {
+        content: "←";
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        left: -20px;
+        transition: -0.8s;
+    }
+    
+    .botao:hover span {
+        padding-left: 33px;
+    }
+        
+    .botao:hover span:after {
+        opacity: 1;
+        left: -2;
+    }
+    
+    
+    
+    
+    

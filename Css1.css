@@ -1,0 +1,133 @@
+body{
+
+background-color: rgb(10, 51, 12);
+}
+
+.title{
+  color: white;
+}
+
+.titulo{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+border-radius: 115px;
+}
+
+
+.atvdapostila{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+border-radius: 115px;
+}
+
+.data{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+border-radius: 115px;
+}
+
+.aluno{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+border-radius: 115px;
+}
+
+.turma{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+border-radius: 115px;
+}
+
+.img{
+  text-align: center ;
+}
+
+.primeiracor{
+    text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+}
+
+.botao1 {
+  text-align: center;
+}
+
+.botao2 {
+  text-align: center;
+}
+
+.botao3{
+  text-align: center;
+}
+
+.botao{
+  border-radius: 6px;
+  background-color: rgb(14, 153, 9);
+  border: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 22px;
+  padding: 3px;
+  width: 200px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.botao span{
+  position: relative;
+  transition: 0.50s;
+}
+
+.botao span:after {
+  content: "→";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -30px;
+  transition: 0.8s;
+}
+
+.botao:hover span {
+  padding-right: 33px;
+}
+  
+.botao:hover span:after {
+  opacity: 1;
+  right: 2;
+}
+
+.segundacor{
+    text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+}
+
+.terceiracor{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 10px;
+}
+
+.rodape{
+text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 77, 19);
+  border-radius: 9px;
+}
+
+
+
+
